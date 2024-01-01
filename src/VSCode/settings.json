@@ -6,14 +6,14 @@
   "editor.cursorStyle": "line",
   "editor.fontFamily": "'Hack Nerd Font', 'Hack Nerd Font Mono'",
   "editor.fontLigatures": true,
-  "editor.fontSize": 13,
+  "editor.fontSize": 12,
   "editor.formatOnSave": true,
   "editor.formatOnPaste": true,
   "editor.formatOnType": false,
   "editor.bracketPairColorization.enabled": true,
   "editor.guides.bracketPairs": "active",
   "editor.letterSpacing": 0.3,
-  "editor.lineHeight": 25,
+  "editor.lineHeight": 1.5,
   "editor.minimap.enabled": false,
   "editor.multiCursorModifier": "ctrlCmd",
   "editor.suggestSelection": "first",
@@ -42,7 +42,7 @@
 
   // Window settings
   "window.restoreWindows": "none",
-  "window.zoomLevel": 1,
+  "window.zoomLevel": 0,
 
   // Workbench settings
   "workbench.iconTheme": "material-icon-theme",
